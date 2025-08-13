@@ -14,7 +14,7 @@ import ProjectCard from '../components/cards/ProjectCard'
 const featuredProjects = [
   {
     name: 'Autonomous Perception Kit',
-    description: '多模态感知管线：图像/点云融合检测与跟踪，支持实时推理。',
+    description: '多模态感知管线：图像/点云融合检测与跟踪，支持实时推理（test）。',
     tags: ['Perception', 'Fusion', 'Tracking'],
     stars: 256,
     repoUrl: 'https://github.com/',
