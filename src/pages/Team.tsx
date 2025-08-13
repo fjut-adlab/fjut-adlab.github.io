@@ -11,10 +11,10 @@ import MemberCard from '../components/cards/MemberCard'
  */
 const members = [
   {
-    name: '某某 教授',
-    role: '导师 · 自动驾驶系统',
+    name: '廖律超 教授（Prof. Lyuchao Liao）',
+    role: '导师 · 自动驾驶技术',
     avatar: 'https://pub-cdn.sider.ai/u/U07GH222NKJ/web-coder/689a03fbf530328388964ca0/resource/64dd891a-054e-419f-bd5d-9298ce579035.jpg',
-    homepage: 'https://example.com',
+    homepage: 'https://faculty.fjut.edu.cn/liaolyuchao/zh_CN/index.htm',
   },
   {
     name: '张三',
